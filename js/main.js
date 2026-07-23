@@ -1,15 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'dbREfUcIh6A', name: 'Organizando os seus dados' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
-    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
-    { id: '1fDOyVJFJko', name: 'aula - 05' },
-    { id: 'mpYZGktdB2k', name: 'aula - 06' },
-    { id: 'IhdMJerpMak', name: 'aula - 07' },
-    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
-    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' }
+    { id: 'dbREfUcIh6A', name: 'Introdução - Sacrosanctum Concilium' },
+    { id: '3Shck0pGbbs', name: 'Compreensão da Sacrosanctum Concilium' },
+    { id: 'sI5x4IDK3z8', name: 'Promover ação litúrgica - Sacrosanctum Concilium' },
+    { id: 'PUKeDnyKvxc', name: 'Carta Apostólica Desiderio Desideravi' },
+    { id: 'kQ0-BTTir3I', name: 'Carta Apostólica Desiderio Desideravi' },
+    { id: 'QDi6MSdwZqE', name: 'Carta Apostólica Desiderio Desideravi' },
+    { id: 'SaWRnwTiLWM', name: 'Dies Domini (Dia do Senhor)' },
+    { id: '3w2fDilq4yw', name: 'Missa Dominical (Páscoa Semanal)' },
+    { id: '1c6hWHv38e4', name: 'Preparação remota e próxima da Missa' },
+    { id: 'cWYtrlcWxcc', name: 'Orações Preparatórias' }
 ];
 
 // Estado atual
