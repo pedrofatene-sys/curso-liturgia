@@ -1,6 +1,6 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados' },
+    { id: 'dbREfUcIh6A', name: 'Organizando os seus dados' },
     { id: 'e8dQeAIUIs8', name: 'aula - 02' },
     { id: 'd0jiLHJGRwM', name: 'aula - 03' },
     { id: 'LAPHMHGdU3o', name: 'aula - 04' },
